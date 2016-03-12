@@ -1,6 +1,6 @@
 # Pre-prep
 
-We have a *lot* to cover in our twelve weeks. Getting a head start will help you out. I know that you don't have enough time to do all of this but I would recommend trying out some of this.
+We have a *lot* to cover in our twelve weeks. Getting a head start will help you out. I know that you don't have enough time to do all of this but I would recommend trying out some of this if you have time.
 
 ### Terminal
 
